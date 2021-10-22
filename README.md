@@ -1,1 +1,1 @@
-# sololearn-c-problem-solve
+# Sololearn C++ problem solve
